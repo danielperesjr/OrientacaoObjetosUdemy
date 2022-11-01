@@ -1,4 +1,4 @@
-package com.udemy.orientacao.objetos.secao01;
+package com.udemy.orientacaoobjetos.secao01;
 
 public class Conta {
 
